@@ -4,3 +4,7 @@
 tp*/*
 !tp*/*.*
 !tp*/Makefile
+# Binaires fournis pour le TP3
+!tp3/crackme1
+!tp3/crackme2
+!tp3/crackme3
