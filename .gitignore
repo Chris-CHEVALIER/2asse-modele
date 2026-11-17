@@ -1,0 +1,6 @@
+# Fichiers objets produits par NASM
+*.o
+# Exécutables produits par ld : fichiers sans extension dans les dossiers des TP
+tp*/*
+!tp*/*.*
+!tp*/Makefile
